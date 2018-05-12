@@ -1,0 +1,49 @@
+_repo: A-Dissertation-upon-Roast-Pig_43566
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Bridgman, L. J. (Lewis Jesse)
+    aliases:
+    - Bridgman, Lewis Jesse
+    - Bridgeman, Lewis Jesse
+    birthdate: 1857
+    deathdate: 1931
+    gutenberg_agent_id: '8122'
+    url: http://www.gutenberg.org/2009/agents/8122
+covers:
+- cover_type: archival
+  image_path: 43566-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Lamb, Charles
+    birthdate: 1775
+    deathdate: 1834
+    gutenberg_agent_id: '293'
+    url: http://www.gutenberg.org/2009/agents/293
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Lamb
+description: COOKERY / FOOD & DRINK ETC. A rapturous appreciation of pork crackling,
+  a touching description of hungry London chimney sweeps, a discussion of the strange
+  pleasure of eating pineapple and a meditation on the delights of Christmas feasting
+  are just some of the subjects of these personal, playful writings from early nineteenth-century
+  essayist Charles Lamb. Exploring the joys of food and also our complicated social
+  relationship with it, these essays are by turns sensuous, mischievous, lyrical and
+  self-mocking. Filled with a sense of hunger, they are some of the most fascinating
+  and nuanced works ever written about eating, drinking and appetite. Throughout the
+  history of civilization, food has been more than simple necessity. In countless
+  cultures, it has been livelihood, status symbol, entertainment - and passion. In
+  the "Great Food" series, Penguin brings you the finest food writing from the last
+  400 years, and opens the door to the wonders of every kitchen.
+gutenberg_issued: '2013-08-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43566'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Roasting (Cooking)'
+- !lcsh 'Swine'
+- !lcc 'PR'
+title: A Dissertation upon Roast Pig
+url: http://www.gutenberg.org/ebooks/43566
